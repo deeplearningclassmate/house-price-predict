@@ -1,4 +1,4 @@
-#2023 SINOPAC AI GO Competition <br>
+#2023 SINOPAC AI GO Competition
 <br>
 <br>
 【比賽介紹】<br>
@@ -13,7 +13,7 @@
 5.資料標準化：StandardScaler()<br>
 6.篩選特徵：刪除類別特徵、文字特徵、人數特徵、標準差>10<br>
 7.訓練模型：使用BaggingRegressor模型，為集成學習的一種，採用Bootstrap Aggregating技術，建立多個獨立基礎回歸模型，隨機抽取樣本訓練每個基礎模型，結8.果由平均計算或投票決定，可提升模型穩定性、性能、泛化能力，降低整體模型的方差<br>
-9.評估模型：MAPE、R2 score<br>
+9.評估模型：MAPE、R2 score
 <br>
 <br>
 【結果】總排名127<br>
