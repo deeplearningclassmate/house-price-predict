@@ -1,4 +1,4 @@
-#2023 SINOPAC AI GO Competition
+# 2023 SINOPAC AI GO Competition
 <br>
 <br>
 【比賽介紹】<br>
